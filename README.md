@@ -8,6 +8,7 @@ This is a simple Python project to track daily expenses.
 3. View Total Spending
 4. EXIT
 
-## python main.python
+## How to Run in Python  
+python main.python
 
 Made by: Sakshi G..... 
