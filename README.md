@@ -9,6 +9,6 @@ This is a simple Python project to track daily expenses.
 4. EXIT
 
 ## How to Run in Python  
-python main.python
+python main.py
 
 Made by: Sakshi G..... 
